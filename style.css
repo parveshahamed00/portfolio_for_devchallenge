@@ -1,0 +1,46 @@
+
+#contact a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    padding-left: 3%;
+}
+.container{
+    padding: 4% 0;
+}
+.experience .card-body img{
+    width: 13%;
+    margin-right:1rem;
+}
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h6{
+    font-size: 20px;
+    padding: 3%;
+}
+.experience{
+    margin-top: 3%;
+}
+/* ------------------------------ */
+.hobbies{
+    margin-top: 5%;
+    padding: 3%;
+}
+.hobbies img{
+    border-radius: 20px;
+}
+.projects .pro{
+    padding: 5%;
+    margin: 7% 0;
+}
+.projects{
+    padding-top:5%;
+}
+.img{
+display: flex;
+align-items: center;
+}
+.projects .card-body{
+    padding-left: 10%;
+}
